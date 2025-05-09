@@ -1,7 +1,7 @@
 import React from "react"
 
 import "./index.css"
-import Sidebar from "./components/Sidebar"
+// import Sidebar from "./components/Sidebar"
 import Canvas from "./components/Canvas"
 
 const App: React.FC = () => {

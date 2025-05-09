@@ -1,4 +1,3 @@
-import React from "react"
 import useDragger from "../customHooks/useDragger"
 
 const PinkBox = () => {
